@@ -1,1 +1,12 @@
 @charset "UTF-8";
+.container { 
+	align-content: center
+}
+
+.title { 
+	font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #FFFFFF;
+	
+}
